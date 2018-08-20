@@ -1,3 +1,9 @@
+# lamp docker
+This is a very simple configuration to work with docker compose for systems based in linux.
+This configuration is based in the post of [José Hernández](https://josehernandez.es/2016/08/10/entorno-php-nginx-mysql-con-docker.html).
+
+(Sorry for the bad english)
+
 # Clone this project
 - Execute in your terminal.
  ```
